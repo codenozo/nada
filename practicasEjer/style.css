@@ -1,0 +1,8 @@
+*{
+    font-size: 25px
+}
+
+body{
+    background-image: url('fotos/purple_marble.png');
+    position: static;
+}

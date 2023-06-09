@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+#prim{
+    color: chartreuse;
+    border: 6px magenta outset;
+    border-radius: 30px;
+}
+
+.seg{
+    color: brown;
+}
+
+*{
+    font-family: 'Dancing Script', cursive;;
+}
+

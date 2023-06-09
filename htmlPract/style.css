@@ -1,0 +1,82 @@
+#titulo1{
+    font-weight: bolder;
+}
+
+.tit{
+    font-weight: bolder;
+    color: tomato;
+}
+
+.des{
+    font-style: italic;
+}
+
+#tabla{
+    /*padding-left: 30%;*/
+    display: flex;  
+    justify-content: center;
+}
+
+#inicio{
+    color: bisque;
+    text-align: center;
+    border-color: coral;
+    border-style: inset;
+    border-radius: 5px;
+    border-width: 8px;
+    background-image: url('Computacion.jpg');
+}
+
+a:link{
+    color: teal;
+}
+
+a:visited{
+    color: crimson;
+}
+
+a:hover{
+    color: blue;
+}
+
+a:active{
+    color: chartreuse;
+}
+
+div ul{
+    list-style-type: circle;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td{
+    border: 1px green solid;
+    padding: 5px;
+    
+}
+
+th{
+    text-align: left;
+}
+
+th{
+    background-color: coral;
+    color: aliceblue;
+}
+
+
+tr:nth-child(even){
+    background-color: blueviolet;
+}
+
+tr:nth-child(odd){
+    background-color: chartreuse;
+}
+
+tr:hover{
+    background-color: blue;
+}
